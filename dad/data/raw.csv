@@ -1,0 +1,255 @@
+Tissue,Cell Type,Species,Strain,Purpose,Recommended Capsid
+Brain,Broad,Mouse,129S1/SvlmJ,Expanded cell type coverage  ,AAV-PHP.AX 
+Brain,Broad,Mouse,C57BL/6J,Expanded cell type coverage  ,AAV-PHP.AX 
+Brain,Broad,Mouse,DBA/1J,Expanded cell type coverage  ,AAV-PHP.AX 
+Brain,Broad,Mouse,DBA/2J,Expanded cell type coverage  ,AAV-PHP.AX 
+Brain,Broad,Mouse,FVB/NJ,Expanded cell type coverage  ,AAV-PHP.AX 
+Brain,Broad,Mouse,LP/J,Expanded cell type coverage  ,AAV-PHP.AX 
+Brain,Broad,Mouse,MOLF/EiJ,Expanded cell type coverage  ,AAV-PHP.AX 
+Brain,Astrocytes,Mouse,129S1/SvlmJ,Overall Potency ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Neurons -broad,Mouse,129S1/SvlmJ,Expanded cell type coverage  ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Astrocytes,Mouse,C57BL/6J,Overall Potency ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Neurons -broad,Mouse,C57BL/6J,Expanded cell type coverage  ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Astrocytes,Mouse,DBA/1J,Overall Potency ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Neurons -broad,Mouse,DBA/1J,Expanded cell type coverage  ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Astrocytes,Mouse,DBA/2J,Overall Potency ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Neurons -broad,Mouse,DBA/2J,Expanded cell type coverage  ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Astrocytes,Mouse,FVB/NJ,Overall Potency ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Neurons -broad,Mouse,FVB/NJ,Expanded cell type coverage  ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Astrocytes,Mouse,LP/J,Overall Potency ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Neurons -broad,Mouse,LP/J,Expanded cell type coverage  ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Astrocytes,Mouse,MOLF/EiJ,Overall Potency ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Neurons -broad,Mouse,MOLF/EiJ,Expanded cell type coverage  ,AAV-PHP.AX with GRE or transgenic animal
+Brain,Broad,Mouse,129S1/SvlmJ,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Mouse,C57BL/6J,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Mouse,DBA/1J,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Mouse,DBA/2J,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Mouse,FVB/NJ,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Mouse,LP/J,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Mouse,MOLF/EiJ,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Rat,Shaker,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Rat,Sprague Dawley,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Rat,Wistar,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Rat ,Fischer,Overall Potency ,AAV-PHP.eB
+Brain,Broad,Rat ,Long-Evans,Overall Potency ,AAV-PHP.eB
+Brain,Astrocytes,Rat,Fischer,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Neurons - broad,Rat,Fischer,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Astrocytes,Rat,Shaker,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Neurons - broad,Rat,Shaker,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Astrocytes,Rat,Sprague Dawley,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Neurons - broad,Rat,Sprague Dawley,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Astrocytes,Rat,Wistar,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Neurons - broad,Rat,Wistar,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Astrocytes,Rat,Long-Evans,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Neurons - broad,Rat,Long-Evans,Overall Potency ,AAV-PHP.eB with GRE
+Brain,Neurons - subtype specific (Excitatory),Mouse,129S1/SvlmJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse,129S1/SvlmJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse,129S1/SvlmJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse,129S1/SvlmJ,Capsid Specificity ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse,129S1/SvlmJ,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse,129S1/SvlmJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse,129S1/SvlmJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Purkinje),Mouse,129S1/SvlmJ,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse,129S1/SvlmJ,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse,C57BL/6J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse,C57BL/6J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse,C57BL/6J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse,C57BL/6J,Capsid Specificity ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse,C57BL/6J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse,C57BL/6J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse,C57BL/6J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Purkinje),Mouse,C57BL/6J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse,C57BL/6J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse,DBA/1J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , DBA/1J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , DBA/1J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , DBA/1J,Capsid Specificity ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , DBA/1J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , DBA/1J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , DBA/1J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Purkinje),Mouse , DBA/1J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse , DBA/1J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , DBA/2J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , DBA/2J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , DBA/2J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , DBA/2J,Capsid Specificity ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , DBA/2J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , DBA/2J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , DBA/2J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Purkinje),Mouse , DBA/2J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse , DBA/2J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , FVB/NJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , FVB/NJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , FVB/NJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , FVB/NJ,Capsid Specificity ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , FVB/NJ,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , FVB/NJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , FVB/NJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Purkinje),Mouse , FVB/NJ,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse , FVB/NJ,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , LP/J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , LP/J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , LP/J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , LP/J,Capsid Specificity ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , LP/J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , LP/J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , LP/J,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Purkinje),Mouse , LP/J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse , LP/J,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , MOLF/EiJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , MOLF/EiJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , MOLF/EiJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , MOLF/EiJ,Capsid Specificity ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , MOLF/EiJ,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , MOLF/EiJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (other),Mouse , MOLF/EiJ,Overall Potency alternative ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Neurons - subtype specific (Purkinje),Mouse , MOLF/EiJ,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse , MOLF/EiJ,Overall Potency ,AAV-PHP.eB with GRE or transgenic animal
+Brain,Broad,Mouse , BALB/cJ,Overall Potency ,AAV-PHP.eC
+Brain,Broad,Mouse , CBA/J,Overall Potency ,AAV-PHP.eC
+Brain,Broad,Mouse , NOD/ShiLtJ,Overall Potency ,AAV-PHP.eC
+Brain,Astrocytes,Mouse , BALB/cJ,Overall Potency ,AAV-PHP.eC with GRE or transgenic animal
+Brain,Neurons - broad,Mouse , BALB/cJ,Overall Potency ,AAV-PHP.eC with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse , BALB/cJ,Overall Potency ,AAV-PHP.eC with GRE or transgenic animal
+Brain,Astrocytes,Mouse , CBA/J,Overall Potency ,AAV-PHP.eC with GRE or transgenic animal
+Brain,Neurons - broad,Mouse , CBA/J,Overall Potency ,AAV-PHP.eC with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse , CBA/J,Overall Potency ,AAV-PHP.eC with GRE or transgenic animal
+Brain,Astrocytes,Mouse , NOD/ShiLtJ,Overall Potency ,AAV-PHP.eC with GRE or transgenic animal
+Brain,Neurons - broad,Mouse , NOD/ShiLtJ,Overall Potency ,AAV-PHP.eC with GRE or transgenic animal
+Brain,Oligodendrocytes,Mouse , NOD/ShiLtJ,Overall Potency ,AAV-PHP.eC with GRE or transgenic animal
+Brain,Neurons -broad,Mouse , 129S1/SvlmJ,Capsid Specificity Alternative ,AAV-PHP.N
+Brain,Neurons -broad,Mouse , C57BL/6J,Capsid Specificity Alternative ,AAV-PHP.N
+Brain,Neurons -broad,Mouse , DBA/1J,Capsid Specificity Alternative ,AAV-PHP.N
+Brain,Neurons -broad,Mouse , DBA/2J,Capsid Specificity Alternative ,AAV-PHP.N
+Brain,Neurons -broad,Mouse , FVB/NJ,Capsid Specificity Alternative ,AAV-PHP.N
+Brain,Neurons -broad,Mouse , LP/J,Capsid Specificity Alternative ,AAV-PHP.N
+Brain,Neurons -broad,Mouse , MOLF/EiJ,Capsid Specificity Alternative ,AAV-PHP.N
+Brain,Neurons - subtype specific (Excitatory),Mouse , 129S1/SvlmJ,Capsid Specificity ,AAV-PHP.N with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , C57BL/6J,Capsid Specificity ,AAV-PHP.N with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , DBA/1J,Capsid Specificity ,AAV-PHP.N with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , DBA/2J,Capsid Specificity ,AAV-PHP.N with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , FVB/NJ,Capsid Specificity ,AAV-PHP.N with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , LP/J,Capsid Specificity ,AAV-PHP.N with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , MOLF/EiJ,Capsid Specificity ,AAV-PHP.N with GRE or transgenic animal
+Brain,Neurons -broad,Mouse , 129S1/SvlmJ,Overall Potency ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , 129S1/SvlmJ,Capsid Specificity ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , C57BL/6J,Overall Potency ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , C57BL/6J,Capsid Specificity ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , DBA/1J,Overall Potency ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , DBA/1J,Capsid Specificity ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , DBA/2J,Overall Potency ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , DBA/2J,Capsid Specificity ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , FVB/NJ,Overall Potency ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , FVB/NJ,Capsid Specificity ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , LP/J,Overall Potency ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , LP/J,Capsid Specificity ,AAV.CAP-B10
+Brain,Neurons - broad,Non-human primate, Marmoset,Overall Potency ,AAV.CAP-B10
+Brain,Neurons - broad,Non-human primate, Marmoset,Capsid Specificity ,AAV.CAP-B10
+Brain,Neurons - NHP subtype specific ,Non-human primate, Marmoset,Overall Potency ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , MOLF/EiJ,Overall Potency ,AAV.CAP-B10
+Brain,Neurons -broad,Mouse , MOLF/EiJ,Capsid Specificity ,AAV.CAP-B10
+Brain,Neurons - NHP subtype specific ,Non-human primate, Marmoset,Capsid Specificity ,AAV.CAP-B10 with GRE
+Brain,Neurons - subtype specific (Excitatory),Mouse , 129S1/SvlmJ,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , 129S1/SvlmJ,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , 129S1/SvlmJ,Capsid Specificity ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , 129S1/SvlmJ,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , C57BL/6J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , C57BL/6J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , C57BL/6J,Capsid Specificity ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , C57BL/6J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , DBA/1J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , DBA/1J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , DBA/1J,Capsid Specificity ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , DBA/1J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , DBA/2J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , DBA/2J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , DBA/2J,Capsid Specificity ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , DBA/2J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , FVB/NJ,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , FVB/NJ,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , FVB/NJ,Capsid Specificity ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , FVB/NJ,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , LP/J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , LP/J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , LP/J,Capsid Specificity ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , LP/J,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (Excitatory),Mouse , MOLF/EiJ,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , MOLF/EiJ,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L2/3 & L4),Mouse , MOLF/EiJ,Capsid Specificity ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Neurons - subtype specific (L5 & Inibitory),Mouse , MOLF/EiJ,Overall Potency ,AAV.CAP-B10 with GRE or transgenic animal
+Brain,Broad,Non-human primate, Marmoset,Overall Potency ,AAV.CAP-B22
+Brain,Astrocytes,Non-human primate, Marmoset,Overall Potency ,AAV.CAP-B22 with GRE
+Brain,Neurons - broad,Non-human primate, Macaque,Overall Potency ,AAV.CAP-Mac
+Brain,Neurons - broad,Non-human primate, Macaque,Capsid Specificity ,AAV.CAP-Mac
+Brain,Neurons - NHP subtype specific,Non-human primate, Macaque,Overall Potency ,AAV.CAP-Mac
+Brain,Vascular Cells,Non-human primate, Marmoset,Overall Potency ,AAV.CAP-Mac
+Brain,Vascular Cells,Non-human primate, Marmoset,Capsid Specificity ,AAV.CAP-Mac
+Brain,Neurons - NHP subtype specific,Non-human primate, Macaque,Capsid Specificity ,AAV.CAP-Mac with GRE
+Brain,Broad,Non-human primate, Macaque,Overall Potency ,AAV.MaCPNS1
+Brain,Astrocytes,Non-human primate, Macaque,Overall Potency ,AAV.MaCPNS1 with GRE
+Brain,Broad,Non-human primate, Macaque,Overall Potency alternative ,AAV.MaCPNS2
+Brain,Astrocytes,Non-human primate, Macaque,Overall Potency alternative ,AAV.MaCPNS2 with GRE
+Brain,Vascular cells,Mouse , 129S1/SvlmJ,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , 129S1/SvlmJ,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular cells,Mouse , BALB/cJ,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , BALB/cJ,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular cells,Mouse , C57BL/6J,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , C57BL/6J,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular cells,Mouse , CBA/J,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , CBA/J,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular cells,Mouse , DBA/1J,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , DBA/1J,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular cells,Mouse , DBA/2J,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , DBA/2J,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular Cells,Rat , Fischer,Overall Potency ,AAV9-X1.1
+Brain,Vascular Cells,Rat , Fischer,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular cells,Mouse , FVB/NJ,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , FVB/NJ,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular cells,Mouse , LP/J,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , LP/J,Capsid Specificity ,AAV9-X1.1
+Brain,Neurons - broad,Non-human primate, Macaque,Overall Potency alternative ,AAV9-X1.1
+Brain,Neurons - broad,Non-human primate, Macaque,Capsid Specificity alternative ,AAV9-X1.1
+Brain,Neurons - NHP subtype specific,Non-human primate, Macaque,Overall Potency alternative ,AAV9-X1.1
+Brain,Vascular cells,Mouse , MOLF/EiJ,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , MOLF/EiJ,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular cells,Mouse , NOD/ShiLtJ,Overall Potency ,AAV9-X1.1
+Brain,Vascular cells,Mouse , NOD/ShiLtJ,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular Cells,Rat , Shaker,Overall Potency ,AAV9-X1.1
+Brain,Vascular Cells,Rat , Shaker,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular Cells,Rat , Sprague Dawley,Overall Potency ,AAV9-X1.1
+Brain,Vascular Cells,Rat , Sprague Dawley,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular Cells,Rat , Wistar,Overall Potency ,AAV9-X1.1
+Brain,Vascular Cells,Rat , Wistar,Capsid Specificity ,AAV9-X1.1
+Brain,Vascular Cells,Rat,Long-Evans,Overall Potency ,AAV9-X1.1
+Brain,Vascular Cells,Rat,Long-Evans,Capsid Specificity ,AAV9-X1.1
+Brain,Neurons - NHP subtype specific,Non-human primate, Macaque,Capsid Specificity alternative ,AAV9-X1.1 with GRE
+Brain,Vascular cells,Mouse , 129S1/SvlmJ,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Brain,Vascular cells,Mouse , BALB/cJ,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Brain,Vascular cells,Mouse , C57BL/6J,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Brain,Vascular cells,Mouse , CBA/J,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Brain,Vascular cells,Mouse , DBA/1J,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Brain,Vascular cells,Mouse , DBA/2J,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Brain,Vascular cells,Mouse , FVB/NJ,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Brain,Vascular cells,Mouse , LP/J,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Brain,Vascular cells,Mouse , MOLF/EiJ,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Brain,Vascular cells,Mouse , NOD/ShiLtJ,If animal has AAV9,Neutralizing Abs - AAV1-X1
+Peripheral Nervous System,Sensory,Mouse,Unspecified,Overall Potency ,MaCPNS1
+Peripheral Nervous System,Sensory,Mouse,Unspecified,Capsid specificity ,MaCPNS1
+Peripheral Nervous System,Enteric,Rat,Unspecified,Alternative capsid ,MaCPNS1 with GRE
+Peripheral Nervous System,Sensory,Rat,Unspecified,Overall Potency ,MaCPNS1 with GRE
+Peripheral Nervous System,Sensory,Non-human primate, Macaque,Overall Potency ,MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Enteric,Non-human primate, Marmoset,Alternative capsid ,MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Sensory,Non-human primate, Marmoset,Overall Potency ,MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Broad,Mouse,Unspecified,Overall Potency ,MaCPNS2
+Peripheral Nervous System,Broad,Rat,Unspecified,Overall Potency ,MaCPNS2
+Peripheral Nervous System,Broad,Non-human primate, Macaque,Overall Potency ,MaCPNS2 (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Broad,Non-human primate, Marmoset,Overall Potency ,MaCPNS2 (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Enteric,Mouse,Unspecified,Overall Potency ,MaCPNS2 with GRE
+Peripheral Nervous System,Enteric,Rat,Unspecified,Overall Potency ,MaCPNS2 with GRE
+Peripheral Nervous System,Sensory,Rat,Unspecified,Alternative capsid ,MaCPNS2 with GRE
+Peripheral Nervous System,Sensory,Non-human primate, Macaque,Alternative capsid ,MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Enteric,Non-human primate, Marmoset,Overall Potency ,MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Sensory,Non-human primate, Marmoset,Alternative capsid ,MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Broad,Mouse,Unspecified,Alternative capsid ,PHP.S
+Peripheral Nervous System,Broad,Rat,Unspecified,Alternative capsid ,PHP.S
+Peripheral Nervous System,Enteric,Non-human primate,Macaque,Overall Potency,MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
