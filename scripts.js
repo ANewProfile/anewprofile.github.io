@@ -1,10 +1,8 @@
-
 // IMPORTANT: consult these docs
 // lodash: https://lodash.com/docs/4.17.15
 // jquery: https://api.jquery.com/
   
 $(document).ready(function() {
-
     function clear_list(which_list, add_option) {
         if (add_option === true) {
             $("#list"+which_list).empty();
@@ -54,13 +52,18 @@ $(document).ready(function() {
 
     function set_li_list(which_list, items) {
         // $("#list"+which_list).empty();
+        console.log(items);
         _.map(items, function (item) {
-            element = document.createElement("li");
+            var element = document.createElement("li");
             $(element).html(item);
             $("#list"+which_list).append(element);
-            description = document.createElement("p");
-            $(description).html("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit imperdiet augue, et varius purus. Praesent ultricies dignissim felis id vehicula. Etiam ac nibh lectus. Praesent finibus nec justo eget venenatis. Nulla pharetra eleifend justo, vitae facilisis ligula egestas in. Vestibulum dictum sed tortor in maximus. Vivamus commodo vulputate pulvinar. Mauris eget malesuada leo. Nulla vitae eros finibus, egestas nibh eget, dignissim arcu. Nunc vel luctus dolor. In at turpis metus. Sed interdum neque eget ultricies cursus. Vivamus eu placerat leo. Nulla vitae elit augue.");
-            $("#list"+which_list).append(description);
+            var description_elm = document.createElement("div");
+            var descriptions = get_description(item);
+            descriptions.forEach(function (description) {
+                $(description_elm).append(description);
+                $(description_elm).append("<br>")
+            })
+            $("#list"+which_list).append(description_elm);
         });
     }
 
@@ -79,6 +82,27 @@ $(document).ready(function() {
         }
     }
   
+    function get_description(text) {
+        var descriptions = [];
+        Object.keys(capsid_descriptions).forEach(function (capsid) {
+            if (text.toLowerCase().includes(capsid.toLowerCase())) {
+                capsid_descriptions[capsid].forEach(function (description) {
+                    var new_link = document.createElement("a");
+                    // console.log($(new_link));
+                    // if ($(new_link)) {
+                    //     console.log("exists")
+                    // }
+                    new_link.setAttribute("href", description[1]);
+                    $(new_link).html(description[0]);
+                    descriptions.push(new_link);
+                    // descriptions.push(description);
+                });
+            }
+        });
+        // console.log(descriptions)
+        return descriptions;
+    }
+
     $("#clear").on("click", function() {
         $(".item-button1").css("background-color", "white");
         var first_list = 1;
@@ -91,3 +115,23 @@ $(document).ready(function() {
     // console.log($("#list1"));
   
   });
+
+/*
+
+dictionary:
+capsid_descriptions = {
+  "name of capsid": "description",
+  "next capsid": "next description",
+}
+
+*/
+
+/*
+
+a = []
+for capsid in capsid_descriptions.keys():
+  if text.lower().contains(capsid.lower()):
+    a.append(capsid_descriptions[capsid])
+return " ".join(a)
+
+*/
