@@ -599,7 +599,6 @@ var capsid_selections = [
            ]],
           ["Overall Potency alternative", [
             "AAV-PHP.eB with GRE or transgenic animal",
-            "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ]],
         ["C57BL/6J", [
@@ -607,7 +606,6 @@ var capsid_selections = [
             "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ["Overall Potency alternative", [
-            "AAV-PHP.eB with GRE or transgenic animal",
             "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ]],
@@ -617,7 +615,6 @@ var capsid_selections = [
            ]],
           ["Overall Potency alternative", [
             "AAV-PHP.eB with GRE or transgenic animal",
-            "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ]],
         ["DBA/2J", [
@@ -625,7 +622,6 @@ var capsid_selections = [
             "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ["Overall Potency alternative", [
-            "AAV-PHP.eB with GRE or transgenic animal",
             "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ]],
@@ -635,7 +631,6 @@ var capsid_selections = [
            ]],
           ["Overall Potency alternative", [
             "AAV-PHP.eB with GRE or transgenic animal",
-            "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ]],
         ["LP/J", [
@@ -644,7 +639,6 @@ var capsid_selections = [
            ]],
           ["Overall Potency alternative", [
             "AAV-PHP.eB with GRE or transgenic animal",
-            "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ]],
         ["MOLF/EiJ", [
@@ -652,7 +646,6 @@ var capsid_selections = [
             "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ["Overall Potency alternative", [
-            "AAV-PHP.eB with GRE or transgenic animal",
             "AAV-PHP.eB with GRE or transgenic animal",
            ]],
           ]],
