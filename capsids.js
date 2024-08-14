@@ -984,19 +984,19 @@ var capsid_selections = [
             "PHP.S",
            ]],
           ["Overall Potency", [
-            "MaCPNS2",
+            "AAV.MaCPNS2",
            ]],
           ]],
          ]],
       ["Non-human primate", [
         ["Macaque", [
           ["Overall Potency", [
-            "MaCPNS2 (Note: CNS is also broadly transduced in this species)",
+            "AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)",
            ]],
           ]],
         ["Marmoset", [
           ["Overall Potency", [
-            "MaCPNS2 (Note: CNS is also broadly transduced in this species)",
+            "AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)",
            ]],
           ]],
          ]],
@@ -1006,7 +1006,7 @@ var capsid_selections = [
             "PHP.S",
            ]],
           ["Overall Potency", [
-            "MaCPNS2",
+            "AAV.MaCPNS2",
            ]],
           ]],
          ]],
@@ -1015,32 +1015,32 @@ var capsid_selections = [
       ["Mouse", [
         ["Unspecified", [
           ["Overall Potency", [
-            "MaCPNS2 with GRE",
+            "AAV.MaCPNS2 with GRE",
            ]],
           ]],
          ]],
       ["Non-human primate", [
         ["Macaque", [
           ["Overall Potency", [
-            "MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)",
+            "AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)",
            ]],
           ]],
         ["Marmoset", [
           ["Alternative capsid", [
-            "MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)",
+            "AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)",
            ]],
           ["Overall Potency", [
-            "MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)",
+            "AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)",
            ]],
           ]],
          ]],
       ["Rat", [
         ["Unspecified", [
           ["Alternative capsid", [
-            "MaCPNS1 with GRE",
+            "AAV.MaCPNS1 with GRE",
            ]],
           ["Overall Potency", [
-            "MaCPNS2 with GRE",
+            "AAV.MaCPNS2 with GRE",
            ]],
           ]],
          ]],
@@ -1049,38 +1049,38 @@ var capsid_selections = [
       ["Mouse", [
         ["Unspecified", [
           ["Capsid specificity", [
-            "MaCPNS1",
+            "AAV.MaCPNS1",
            ]],
           ["Overall Potency", [
-            "MaCPNS1",
+            "AAV.MaCPNS1",
            ]],
           ]],
          ]],
       ["Non-human primate", [
         ["Macaque", [
           ["Alternative capsid", [
-            "MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)",
+            "AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)",
            ]],
           ["Overall Potency", [
-            "MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)",
+            "AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)",
            ]],
           ]],
         ["Marmoset", [
           ["Alternative capsid", [
-            "MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)",
+            "AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)",
            ]],
           ["Overall Potency", [
-            "MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)",
+            "AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)",
            ]],
           ]],
          ]],
       ["Rat", [
         ["Unspecified", [
           ["Alternative capsid", [
-            "MaCPNS2 with GRE",
+            "AAV.MaCPNS2 with GRE",
            ]],
           ["Overall Potency", [
-            "MaCPNS1 with GRE",
+            "AAV.MaCPNS1 with GRE",
            ]],
           ]],
          ]],

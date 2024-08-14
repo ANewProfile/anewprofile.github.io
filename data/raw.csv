@@ -227,22 +227,22 @@ Brain,Vascular cells,Mouse , NOD/ShiLtJ,Capsid Specificity ,AAV9-X1.1
 Brain,Vascular cells,Mouse , NOD/ShiLtJ,If animal has AAV9,Neutralizing Abs - AAV1-X1
 Brain,Vascular cells,Mouse , NOD/ShiLtJ,Overall Potency ,AAV9-X1.1
 Peripheral Nervous System,Broad,Mouse,Unspecified,Alternative capsid ,PHP.S
-Peripheral Nervous System,Broad,Mouse,Unspecified,Overall Potency ,MaCPNS2
-Peripheral Nervous System,Broad,Non-human primate, Macaque,Overall Potency ,MaCPNS2 (Note: CNS is also broadly transduced in this species)
-Peripheral Nervous System,Broad,Non-human primate, Marmoset,Overall Potency ,MaCPNS2 (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Broad,Mouse,Unspecified,Overall Potency ,AAV.MaCPNS2
+Peripheral Nervous System,Broad,Non-human primate, Macaque,Overall Potency ,AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Broad,Non-human primate, Marmoset,Overall Potency ,AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)
 Peripheral Nervous System,Broad,Rat,Unspecified,Alternative capsid ,PHP.S
-Peripheral Nervous System,Broad,Rat,Unspecified,Overall Potency ,MaCPNS2
-Peripheral Nervous System,Enteric,Mouse,Unspecified,Overall Potency ,MaCPNS2 with GRE
-Peripheral Nervous System,Enteric,Non-human primate, Marmoset,Alternative capsid ,MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
-Peripheral Nervous System,Enteric,Non-human primate, Marmoset,Overall Potency ,MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
-Peripheral Nervous System,Enteric,Non-human primate,Macaque,Overall Potency,MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
-Peripheral Nervous System,Enteric,Rat,Unspecified,Alternative capsid ,MaCPNS1 with GRE
-Peripheral Nervous System,Enteric,Rat,Unspecified,Overall Potency ,MaCPNS2 with GRE
-Peripheral Nervous System,Sensory,Mouse,Unspecified,Capsid specificity ,MaCPNS1
-Peripheral Nervous System,Sensory,Mouse,Unspecified,Overall Potency ,MaCPNS1
-Peripheral Nervous System,Sensory,Non-human primate, Macaque,Alternative capsid ,MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
-Peripheral Nervous System,Sensory,Non-human primate, Macaque,Overall Potency ,MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
-Peripheral Nervous System,Sensory,Non-human primate, Marmoset,Alternative capsid ,MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
-Peripheral Nervous System,Sensory,Non-human primate, Marmoset,Overall Potency ,MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
-Peripheral Nervous System,Sensory,Rat,Unspecified,Alternative capsid ,MaCPNS2 with GRE
-Peripheral Nervous System,Sensory,Rat,Unspecified,Overall Potency ,MaCPNS1 with GRE
+Peripheral Nervous System,Broad,Rat,Unspecified,Overall Potency ,AAV.MaCPNS2
+Peripheral Nervous System,Enteric,Mouse,Unspecified,Overall Potency ,AAV.MaCPNS2 with GRE
+Peripheral Nervous System,Enteric,Non-human primate, Marmoset,Alternative capsid ,AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Enteric,Non-human primate, Marmoset,Overall Potency ,AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Enteric,Non-human primate,Macaque,Overall Potency,AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Enteric,Rat,Unspecified,Alternative capsid ,AAV.MaCPNS1 with GRE
+Peripheral Nervous System,Enteric,Rat,Unspecified,Overall Potency ,AAV.MaCPNS2 with GRE
+Peripheral Nervous System,Sensory,Mouse,Unspecified,Capsid specificity ,AAV.MaCPNS1
+Peripheral Nervous System,Sensory,Mouse,Unspecified,Overall Potency ,AAV.MaCPNS1
+Peripheral Nervous System,Sensory,Non-human primate, Macaque,Alternative capsid ,AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Sensory,Non-human primate, Macaque,Overall Potency ,AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Sensory,Non-human primate, Marmoset,Alternative capsid ,AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Sensory,Non-human primate, Marmoset,Overall Potency ,AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Peripheral Nervous System,Sensory,Rat,Unspecified,Alternative capsid ,AAV.MaCPNS2 with GRE
+Peripheral Nervous System,Sensory,Rat,Unspecified,Overall Potency ,AAV.MaCPNS1 with GRE
