@@ -808,60 +808,6 @@ var capsid_selections = [
          ]],
         ]],
     ["Vascular Cells", [
-      ["Non-human primate", [
-        ["Marmoset", [
-          ["Capsid Specificity", [
-            "AAV.CAP-Mac",
-           ]],
-          ["Overall Potency", [
-            "AAV.CAP-Mac",
-           ]],
-          ]],
-         ]],
-      ["Rat", [
-        ["Fischer", [
-          ["Capsid Specificity", [
-            "AAV9-X1.1",
-           ]],
-          ["Overall Potency", [
-            "AAV9-X1.1",
-           ]],
-          ]],
-        ["Long-Evans", [
-          ["Capsid Specificity", [
-            "AAV9-X1.1",
-           ]],
-          ["Overall Potency", [
-            "AAV9-X1.1",
-           ]],
-          ]],
-        ["Shaker", [
-          ["Capsid Specificity", [
-            "AAV9-X1.1",
-           ]],
-          ["Overall Potency", [
-            "AAV9-X1.1",
-           ]],
-          ]],
-        ["Sprague Dawley", [
-          ["Capsid Specificity", [
-            "AAV9-X1.1",
-           ]],
-          ["Overall Potency", [
-            "AAV9-X1.1",
-           ]],
-          ]],
-        ["Wistar", [
-          ["Capsid Specificity", [
-            "AAV9-X1.1",
-           ]],
-          ["Overall Potency", [
-            "AAV9-X1.1",
-           ]],
-          ]],
-         ]],
-        ]],
-    ["Vascular cells", [
       ["Mouse", [
         ["129S1/SvlmJ", [
           ["Capsid Specificity", [
@@ -968,6 +914,58 @@ var capsid_selections = [
            ]],
           ["If animal has AAV9", [
             "Neutralizing Abs - AAV1-X1",
+           ]],
+          ["Overall Potency", [
+            "AAV9-X1.1",
+           ]],
+          ]],
+         ]],
+      ["Non-human primate", [
+        ["Marmoset", [
+          ["Capsid Specificity", [
+            "AAV.CAP-Mac",
+           ]],
+          ["Overall Potency", [
+            "AAV.CAP-Mac",
+           ]],
+          ]],
+         ]],
+      ["Rat", [
+        ["Fischer", [
+          ["Capsid Specificity", [
+            "AAV9-X1.1",
+           ]],
+          ["Overall Potency", [
+            "AAV9-X1.1",
+           ]],
+          ]],
+        ["Long-Evans", [
+          ["Capsid Specificity", [
+            "AAV9-X1.1",
+           ]],
+          ["Overall Potency", [
+            "AAV9-X1.1",
+           ]],
+          ]],
+        ["Shaker", [
+          ["Capsid Specificity", [
+            "AAV9-X1.1",
+           ]],
+          ["Overall Potency", [
+            "AAV9-X1.1",
+           ]],
+          ]],
+        ["Sprague Dawley", [
+          ["Capsid Specificity", [
+            "AAV9-X1.1",
+           ]],
+          ["Overall Potency", [
+            "AAV9-X1.1",
+           ]],
+          ]],
+        ["Wistar", [
+          ["Capsid Specificity", [
+            "AAV9-X1.1",
            ]],
           ["Overall Potency", [
             "AAV9-X1.1",
