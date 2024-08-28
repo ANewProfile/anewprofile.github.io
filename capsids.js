@@ -378,18 +378,18 @@ var capsid_selections = [
         ]],
     ["Peripheral Nervous System", [
       ["Broad", [
-        ["Unspecified", [
+        ["Not Applicable (no known strain-specifiity)", [
           "Alternative capsid: PHP.S",
           "Overall Potency: AAV.MaCPNS2",
           ]],
          ]],
       ["Enteric", [
-        ["Unspecified", [
+        ["Not Applicable (no known strain-specifiity)", [
           "Overall Potency: AAV.MaCPNS2 with GRE",
           ]],
          ]],
       ["Sensory", [
-        ["Unspecified", [
+        ["Not Applicable (no known strain-specifiity)", [
           "Capsid specificity: AAV.MaCPNS1",
           "Overall Potency: AAV.MaCPNS1",
           ]],
@@ -555,19 +555,19 @@ var capsid_selections = [
         ]],
     ["Peripheral Nervous System", [
       ["Broad", [
-        ["Unspecified", [
+        ["Not Applicable (no known strain-specifiity)", [
           "Alternative capsid: PHP.S",
           "Overall Potency: AAV.MaCPNS2",
           ]],
          ]],
       ["Enteric", [
-        ["Unspecified", [
+        ["Not Applicable (no known strain-specifiity)", [
           "Alternative capsid: AAV.MaCPNS1 with GRE",
           "Overall Potency: AAV.MaCPNS2 with GRE",
           ]],
          ]],
       ["Sensory", [
-        ["Unspecified", [
+        ["Not Applicable (no known strain-specifiity)", [
           "Alternative capsid: AAV.MaCPNS2 with GRE",
           "Overall Potency: AAV.MaCPNS1 with GRE",
           ]],
