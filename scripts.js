@@ -64,7 +64,10 @@ $(document).ready(function() {
                 $(description_elm).append("<br>")
             })
             $("#list"+which_list).append(description_elm);
+            $("#list"+which_list).append("<br>");
         });
+        $("#list"+which_list).append(document.createElement("br"));
+        $("#list"+which_list).append("<a href='https://clover.caltech.edu/aav-repository' id='aav-repo-link'>See how others have used these capsids</a>");
     }
 
     function set_list_generic(which_list, items) {
