@@ -51,3 +51,11 @@ p {
     font-size: 14px;
     font-family: Roboto, "Helvetica Neue", HelveticaNeue, "Liberation Sans", Arimo, Helvetica, Arial, sans-serif, dejavu_sans, Symbola;
 }
+
+#aav-repo-link {
+    font-size: larger;
+}
+
+.ptext {
+    font-size: 20px;
+}
