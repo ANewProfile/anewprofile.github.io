@@ -5,10 +5,18 @@ Mouse,Brain,Astrocytes,C57BL/6J,Overall Potency: AAV-PHP.AX with GRE or transgen
 Mouse,Brain,Astrocytes,CBA/J,Overall Potency: AAV-PHP.eC with GRE or transgenic animal
 Mouse,Brain,Astrocytes,DBA/1J,Overall Potency: AAV-PHP.AX with GRE or transgenic animal
 Mouse,Brain,Astrocytes,DBA/2J,Overall Potency: AAV-PHP.AX with GRE or transgenic animal
+Rat,Brain,Astrocytes,Fischer,Overall Potency: AAV-PHP.eB with GRE
 Mouse,Brain,Astrocytes,FVB/NJ,Overall Potency: AAV-PHP.AX with GRE or transgenic animal
+Rat,Brain,Astrocytes,Long-Evans,Overall Potency: AAV-PHP.eB with GRE
 Mouse,Brain,Astrocytes,LP/J,Overall Potency: AAV-PHP.AX with GRE or transgenic animal
+Non-human primate,Brain,Astrocytes,Macaque,Overall Potency: AAV.MaCPNS1 with GRE
+Non-human primate,Brain,Astrocytes,Macaque,Overall Potency alternative: AAV.MaCPNS2 with GRE
+Non-human primate,Brain,Astrocytes,Marmoset,Overall Potency: AAV.CAP-B22 with GRE
 Mouse,Brain,Astrocytes,MOLF/EiJ,Overall Potency: AAV-PHP.AX with GRE or transgenic animal
 Mouse,Brain,Astrocytes,NOD/ShiLtJ,Overall Potency: AAV-PHP.eC with GRE or transgenic animal
+Rat,Brain,Astrocytes,Shaker,Overall Potency: AAV-PHP.eB with GRE
+Rat,Brain,Astrocytes,Sprague Dawley,Overall Potency: AAV-PHP.eB with GRE
+Rat,Brain,Astrocytes,Wistar,Overall Potency: AAV-PHP.eB with GRE
 Mouse,Brain,Broad,129S1/SvlmJ,Expanded cell type coverage: AAV-PHP.AX
 Mouse,Brain,Broad,129S1/SvlmJ,Overall Potency: AAV-PHP.eB
 Mouse,Brain,Broad,BALB/cJ,Overall Potency: AAV-PHP.eC
@@ -19,16 +27,41 @@ Mouse,Brain,Broad,DBA/1J,Expanded cell type coverage: AAV-PHP.AX
 Mouse,Brain,Broad,DBA/1J,Overall Potency: AAV-PHP.eB
 Mouse,Brain,Broad,DBA/2J,Expanded cell type coverage: AAV-PHP.AX
 Mouse,Brain,Broad,DBA/2J,Overall Potency: AAV-PHP.eB
+Rat,Brain,Broad,Fischer,Overall Potency: AAV-PHP.eB
 Mouse,Brain,Broad,FVB/NJ,Expanded cell type coverage: AAV-PHP.AX
 Mouse,Brain,Broad,FVB/NJ,Overall Potency: AAV-PHP.eB
+Rat,Brain,Broad,Long-Evans,Overall Potency: AAV-PHP.eB
 Mouse,Brain,Broad,LP/J,Expanded cell type coverage: AAV-PHP.AX
 Mouse,Brain,Broad,LP/J,Overall Potency: AAV-PHP.eB
+Non-human primate,Brain,Broad,Macaque,Overall Potency: AAV.MaCPNS1
+Non-human primate,Brain,Broad,Macaque,Overall Potency alternative: AAV.MaCPNS2
+Non-human primate,Brain,Broad,Marmoset,Overall Potency: AAV.CAP-B22
 Mouse,Brain,Broad,MOLF/EiJ,Expanded cell type coverage: AAV-PHP.AX
 Mouse,Brain,Broad,MOLF/EiJ,Overall Potency: AAV-PHP.eB
 Mouse,Brain,Broad,NOD/ShiLtJ,Overall Potency: AAV-PHP.eC
+Rat,Brain,Broad,Shaker,Overall Potency: AAV-PHP.eB
+Rat,Brain,Broad,Sprague Dawley,Overall Potency: AAV-PHP.eB
+Rat,Brain,Broad,Wistar,Overall Potency: AAV-PHP.eB
 Mouse,Brain,Neurons - broad,BALB/cJ,Overall Potency: AAV-PHP.eC with GRE or transgenic animal
 Mouse,Brain,Neurons - broad,CBA/J,Overall Potency: AAV-PHP.eC with GRE or transgenic animal
+Rat,Brain,Neurons - broad,Fischer,Overall Potency: AAV-PHP.eB with GRE
+Rat,Brain,Neurons - broad,Long-Evans,Overall Potency: AAV-PHP.eB with GRE
+Non-human primate,Brain,Neurons - broad,Macaque,Capsid Specificity: AAV.CAP-Mac
+Non-human primate,Brain,Neurons - broad,Macaque,Capsid Specificity alternative: AAV9-X1.1
+Non-human primate,Brain,Neurons - broad,Macaque,Overall Potency: AAV.CAP-Mac
+Non-human primate,Brain,Neurons - broad,Macaque,Overall Potency alternative: AAV9-X1.1
+Non-human primate,Brain,Neurons - broad,Marmoset,Capsid Specificity: AAV.CAP-B10
+Non-human primate,Brain,Neurons - broad,Marmoset,Overall Potency: AAV.CAP-B10
 Mouse,Brain,Neurons - broad,NOD/ShiLtJ,Overall Potency: AAV-PHP.eC with GRE or transgenic animal
+Rat,Brain,Neurons - broad,Shaker,Overall Potency: AAV-PHP.eB with GRE
+Rat,Brain,Neurons - broad,Sprague Dawley,Overall Potency: AAV-PHP.eB with GRE
+Rat,Brain,Neurons - broad,Wistar,Overall Potency: AAV-PHP.eB with GRE
+Non-human primate,Brain,Neurons - NHP subtype specific,Macaque,Capsid Specificity: AAV.CAP-Mac with GRE
+Non-human primate,Brain,Neurons - NHP subtype specific,Macaque,Capsid Specificity alternative: AAV9-X1.1 with GRE
+Non-human primate,Brain,Neurons - NHP subtype specific,Macaque,Overall Potency: AAV.CAP-Mac
+Non-human primate,Brain,Neurons - NHP subtype specific,Macaque,Overall Potency alternative: AAV9-X1.1
+Non-human primate,Brain,Neurons - NHP subtype specific,Marmoset,Capsid Specificity: AAV.CAP-B10 with GRE
+Non-human primate,Brain,Neurons - NHP subtype specific,Marmoset,Overall Potency: AAV.CAP-B10
 Mouse,Brain,Neurons - subtype specific (Excitatory),129S1/SvlmJ,Capsid Specificity: AAV-PHP.N with GRE or transgenic animal
 Mouse,Brain,Neurons - subtype specific (Excitatory),129S1/SvlmJ,Overall Potency: AAV.CAP-B10 with GRE or transgenic animal
 Mouse,Brain,Neurons - subtype specific (Excitatory),129S1/SvlmJ,Overall Potency alternative: AAV-PHP.eB with GRE or transgenic animal
@@ -169,80 +202,47 @@ Mouse,Brain,Vascular Cells,DBA/1J,Overall Potency: AAV9-X1.1
 Mouse,Brain,Vascular Cells,DBA/2J,Capsid Specificity: AAV9-X1.1
 Mouse,Brain,Vascular Cells,DBA/2J,If animal has AAV9: Neutralizing Abs - AAV1-X1
 Mouse,Brain,Vascular Cells,DBA/2J,Overall Potency: AAV9-X1.1
+Rat,Brain,Vascular Cells,Fischer,Capsid Specificity: AAV9-X1.1
+Rat,Brain,Vascular Cells,Fischer,Overall Potency: AAV9-X1.1
 Mouse,Brain,Vascular Cells,FVB/NJ,Capsid Specificity: AAV9-X1.1
 Mouse,Brain,Vascular Cells,FVB/NJ,If animal has AAV9: Neutralizing Abs - AAV1-X1
 Mouse,Brain,Vascular Cells,FVB/NJ,Overall Potency: AAV9-X1.1
+Rat,Brain,Vascular Cells,Long-Evans,Capsid Specificity: AAV9-X1.1
+Rat,Brain,Vascular Cells,Long-Evans,Overall Potency: AAV9-X1.1
 Mouse,Brain,Vascular Cells,LP/J,Capsid Specificity: AAV9-X1.1
 Mouse,Brain,Vascular Cells,LP/J,If animal has AAV9: Neutralizing Abs - AAV1-X1
 Mouse,Brain,Vascular Cells,LP/J,Overall Potency: AAV9-X1.1
+Non-human primate,Brain,Vascular Cells,Marmoset,Capsid Specificity: AAV.CAP-Mac
+Non-human primate,Brain,Vascular Cells,Marmoset,Overall Potency: AAV.CAP-Mac
 Mouse,Brain,Vascular Cells,MOLF/EiJ,Capsid Specificity: AAV9-X1.1
 Mouse,Brain,Vascular Cells,MOLF/EiJ,If animal has AAV9: Neutralizing Abs - AAV1-X1
 Mouse,Brain,Vascular Cells,MOLF/EiJ,Overall Potency: AAV9-X1.1
 Mouse,Brain,Vascular Cells,NOD/ShiLtJ,Capsid Specificity: AAV9-X1.1
 Mouse,Brain,Vascular Cells,NOD/ShiLtJ,If animal has AAV9: Neutralizing Abs - AAV1-X1
 Mouse,Brain,Vascular Cells,NOD/ShiLtJ,Overall Potency: AAV9-X1.1
-Mouse,Peripheral Nervous System,Broad,Unspecified,Alternative capsid: PHP.S
-Mouse,Peripheral Nervous System,Broad,Unspecified,Overall Potency: AAV.MaCPNS2
-Mouse,Peripheral Nervous System,Enteric,Unspecified,Overall Potency: AAV.MaCPNS2 with GRE
-Mouse,Peripheral Nervous System,Sensory,Unspecified,Capsid specificity: AAV.MaCPNS1
-Mouse,Peripheral Nervous System,Sensory,Unspecified,Overall Potency: AAV.MaCPNS1
-Non-human primate,Brain,Astrocytes,Macaque,Overall Potency: AAV.MaCPNS1 with GRE
-Non-human primate,Brain,Astrocytes,Macaque,Overall Potency alternative: AAV.MaCPNS2 with GRE
-Non-human primate,Brain,Astrocytes,Marmoset,Overall Potency: AAV.CAP-B22 with GRE
-Non-human primate,Brain,Broad,Macaque,Overall Potency: AAV.MaCPNS1
-Non-human primate,Brain,Broad,Macaque,Overall Potency alternative: AAV.MaCPNS2
-Non-human primate,Brain,Broad,Marmoset,Overall Potency: AAV.CAP-B22
-Non-human primate,Brain,Neurons - broad,Macaque,Capsid Specificity: AAV.CAP-Mac
-Non-human primate,Brain,Neurons - broad,Macaque,Capsid Specificity alternative: AAV9-X1.1
-Non-human primate,Brain,Neurons - broad,Macaque,Overall Potency: AAV.CAP-Mac
-Non-human primate,Brain,Neurons - broad,Macaque,Overall Potency alternative: AAV9-X1.1
-Non-human primate,Brain,Neurons - broad,Marmoset,Capsid Specificity: AAV.CAP-B10
-Non-human primate,Brain,Neurons - broad,Marmoset,Overall Potency: AAV.CAP-B10
-Non-human primate,Brain,Neurons - NHP subtype specific,Macaque,Capsid Specificity: AAV.CAP-Mac with GRE
-Non-human primate,Brain,Neurons - NHP subtype specific,Macaque,Capsid Specificity alternative: AAV9-X1.1 with GRE
-Non-human primate,Brain,Neurons - NHP subtype specific,Macaque,Overall Potency: AAV.CAP-Mac
-Non-human primate,Brain,Neurons - NHP subtype specific,Macaque,Overall Potency alternative: AAV9-X1.1
-Non-human primate,Brain,Neurons - NHP subtype specific,Marmoset,Capsid Specificity: AAV.CAP-B10 with GRE
-Non-human primate,Brain,Neurons - NHP subtype specific,Marmoset,Overall Potency: AAV.CAP-B10
-Non-human primate,Brain,Vascular Cells,Marmoset,Capsid Specificity: AAV.CAP-Mac
-Non-human primate,Brain,Vascular Cells,Marmoset,Overall Potency: AAV.CAP-Mac
-Non-human primate,Peripheral Nervous System,Broad,Macaque,Overall Potency: AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)
-Non-human primate,Peripheral Nervous System,Broad,Marmoset,Overall Potency: AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)
-Non-human primate,Peripheral Nervous System,Enteric,Macaque,Overall Potency: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
-Non-human primate,Peripheral Nervous System,Enteric,Marmoset,Alternative capsid: AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
-Non-human primate,Peripheral Nervous System,Enteric,Marmoset,Overall Potency: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
-Non-human primate,Peripheral Nervous System,Sensory,Macaque,Alternative capsid: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
-Non-human primate,Peripheral Nervous System,Sensory,Macaque,Overall Potency: AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
-Non-human primate,Peripheral Nervous System,Sensory,Marmoset,Alternative capsid: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
-Non-human primate,Peripheral Nervous System,Sensory,Marmoset,Overall Potency: AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
-Rat,Brain,Astrocytes,Fischer,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Astrocytes,Long-Evans,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Astrocytes,Shaker,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Astrocytes,Sprague Dawley,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Astrocytes,Wistar,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Broad,Fischer,Overall Potency: AAV-PHP.eB
-Rat,Brain,Broad,Long-Evans,Overall Potency: AAV-PHP.eB
-Rat,Brain,Broad,Shaker,Overall Potency: AAV-PHP.eB
-Rat,Brain,Broad,Sprague Dawley,Overall Potency: AAV-PHP.eB
-Rat,Brain,Broad,Wistar,Overall Potency: AAV-PHP.eB
-Rat,Brain,Neurons - broad,Fischer,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Neurons - broad,Long-Evans,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Neurons - broad,Shaker,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Neurons - broad,Sprague Dawley,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Neurons - broad,Wistar,Overall Potency: AAV-PHP.eB with GRE
-Rat,Brain,Vascular Cells,Fischer,Capsid Specificity: AAV9-X1.1
-Rat,Brain,Vascular Cells,Fischer,Overall Potency: AAV9-X1.1
-Rat,Brain,Vascular Cells,Long-Evans,Capsid Specificity: AAV9-X1.1
-Rat,Brain,Vascular Cells,Long-Evans,Overall Potency: AAV9-X1.1
 Rat,Brain,Vascular Cells,Shaker,Capsid Specificity: AAV9-X1.1
 Rat,Brain,Vascular Cells,Shaker,Overall Potency: AAV9-X1.1
 Rat,Brain,Vascular Cells,Sprague Dawley,Capsid Specificity: AAV9-X1.1
 Rat,Brain,Vascular Cells,Sprague Dawley,Overall Potency: AAV9-X1.1
 Rat,Brain,Vascular Cells,Wistar,Capsid Specificity: AAV9-X1.1
 Rat,Brain,Vascular Cells,Wistar,Overall Potency: AAV9-X1.1
-Rat,Peripheral Nervous System,Broad,Unspecified,Alternative capsid: PHP.S
-Rat,Peripheral Nervous System,Broad,Unspecified,Overall Potency: AAV.MaCPNS2
-Rat,Peripheral Nervous System,Enteric,Unspecified,Alternative capsid: AAV.MaCPNS1 with GRE
-Rat,Peripheral Nervous System,Enteric,Unspecified,Overall Potency: AAV.MaCPNS2 with GRE
-Rat,Peripheral Nervous System,Sensory,Unspecified,Alternative capsid: AAV.MaCPNS2 with GRE
-Rat,Peripheral Nervous System,Sensory,Unspecified,Overall Potency: AAV.MaCPNS1 with GRE
+Non-human primate,Peripheral Nervous System,Broad,Macaque,Overall Potency: AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)
+Non-human primate,Peripheral Nervous System,Broad,Marmoset,Overall Potency: AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)
+Mouse,Peripheral Nervous System,Broad,Not Applicable (no known strain-specifiity),Alternative capsid: PHP.S
+Mouse,Peripheral Nervous System,Broad,Not Applicable (no known strain-specifiity),Overall Potency: AAV.MaCPNS2
+Rat,Peripheral Nervous System,Broad,Not Applicable (no known strain-specifiity),Alternative capsid: PHP.S
+Rat,Peripheral Nervous System,Broad,Not Applicable (no known strain-specifiity),Overall Potency: AAV.MaCPNS2
+Non-human primate,Peripheral Nervous System,Enteric,Macaque,Overall Potency: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Non-human primate,Peripheral Nervous System,Enteric,Marmoset,Alternative capsid: AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Non-human primate,Peripheral Nervous System,Enteric,Marmoset,Overall Potency: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Mouse,Peripheral Nervous System,Enteric,Not Applicable (no known strain-specifiity),Overall Potency: AAV.MaCPNS2 with GRE
+Rat,Peripheral Nervous System,Enteric,Not Applicable (no known strain-specifiity),Alternative capsid: AAV.MaCPNS1 with GRE
+Rat,Peripheral Nervous System,Enteric,Not Applicable (no known strain-specifiity),Overall Potency: AAV.MaCPNS2 with GRE
+Non-human primate,Peripheral Nervous System,Sensory,Macaque,Alternative capsid: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Non-human primate,Peripheral Nervous System,Sensory,Macaque,Overall Potency: AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Non-human primate,Peripheral Nervous System,Sensory,Marmoset,Alternative capsid: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Non-human primate,Peripheral Nervous System,Sensory,Marmoset,Overall Potency: AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Mouse,Peripheral Nervous System,Sensory,Not Applicable (no known strain-specifiity),Capsid specificity: AAV.MaCPNS1
+Mouse,Peripheral Nervous System,Sensory,Not Applicable (no known strain-specifiity),Overall Potency: AAV.MaCPNS1
+Rat,Peripheral Nervous System,Sensory,Not Applicable (no known strain-specifiity),Alternative capsid: AAV.MaCPNS2 with GRE
+Rat,Peripheral Nervous System,Sensory,Not Applicable (no known strain-specifiity),Overall Potency: AAV.MaCPNS1 with GRE
