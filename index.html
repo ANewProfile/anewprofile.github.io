@@ -1,103 +1,86 @@
 <html>
-<head>
+  <head>
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+      integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"
+    ></script>
 
-<script  
- src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
- integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
- crossorigin="anonymous">
-</script>
+    <link href='https://fonts.googleapis.com/css?family=Calistoga' rel='stylesheet'>
 
-<script
- src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js">
-</script>
-
-<link href='https://fonts.googleapis.com/css?family=Calistoga' rel='stylesheet'>
-
-<script src="./capsids.js"></script>
-<script src="./descriptions.js"></script>
-<script src="./scripts.js"></script>
-<link rel="stylesheet" href="./style.css">
-
-
-</head>
-
-<body>
-  <!-- <ul id="list1" class="list">
-  </ul>
-
-  <ul id="list2" class="list">
-  </ul>
-
-  <ul id="list3" class="list">
-  </ul>
-
-  <ul id="list4" class="list">
-  </ul>
-
-  <ul id="list5" class="list">
-  </ul> -->
-
-  <label>
-    Species
-  </label><br>
-  <p class="ptext">
-    This tool presents validated vector options for the most common model organisms. For other
-    species, any published results can be found in the <a href="https://clover.caltech.edu/aav-repository">Caltech CLOVER Center's Systemic AAV
+    <script src="./capsids.js"></script>
+    <script src="./descriptions.js"></script>
+    <script src="./scripts.js"></script>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <label>
+      Species
+    </label><br>
+    <p class="ptext">
+      This tool presents validated vector options for the most common model organisms. For other
+      species, any published results can be found in the <a href="https://clover.caltech.edu/aav-repository">Caltech CLOVER Center's Systemic AAV
       Repository</a>.
-  </p>
-  <select id="list1" class="list">
-    <option value="-" selected disabled>Choose an option</option>
-  </select>
-  <br>
-  <br>
+    </p>
+    <select id="list1" class="list">
+      <option value="-" selected disabled>Choose an option</option>
+    </select>
+    <br>
+    <br>
+    <br>
 
-  <label>
-    Strain
-  </label><br>
-  <p class="ptext">
-    The enhanced properties of some rodent vectors depend on the strain used. For more details
-    on this phenomenon, please see: <a href="https://blog.addgene.org/viral-vectors-101-systemic-capsids-1">Addgene Blog: Systemic Capsids</a> section 'Strain-specific tropism in mice.
-  </p>
-  <select id="list2" class="list">
-    <option value="-" selected disabled>Choose an option</option>
-  </select>
-  <br>
-  <br>
+    <label>
+      Strain
+    </label><br>
+    <p class="ptext">
+      The enhanced properties of some rodent vectors depend on the strain used. For more details
+      on this phenomenon, please see: <a href="https://blog.addgene.org/viral-vectors-101-systemic-capsids-1">Addgene Blog: Systemic Capsids</a> section 'Strain-specific tropism in mice.'
+    </p>
+    <select id="list2" class="list">
+      <option value="-" selected disabled>Choose an option</option>
+    </select>
+    <br>
+    <br>
+    <br>
 
-  <label>
-    Tissue
-  </label><br>
-  <p class="ptext">
-    Vectors have enhanced performance in the below tissues. Most commonly, this is layered atop
-    AAV9's basal peripheral tissue preferences.
-  </p>
-  <select id="list3" class="list">
-    <option value="-" selected disabled>Choose an option</option>
-  </select>
-  <br>
-  <br>
+    <label>
+      Tissue
+    </label><br>
+    <p class="ptext">
+      Vectors have enhanced performance in the below tissues. Most commonly, this is layered atop
+      AAV9's basal peripheral tissue preferences.
+    </p>
+    <select id="list3" class="list">
+      <option value="-" selected disabled>Choose an option</option>
+    </select>
+    <br>
+    <br>
+    <br>
 
-  <label>
-    Cell Type
-  </label><br>
-  <p class="ptext">
+    <label>
+      Cell Type
+    </label><br>
+    <p class="ptext">
     Broad indicates vector transduction across major cell types (e.g. neurons, astrocytes, etc) or,
-  when following a specified cell type, across subtypes.
-  </p>
-  <select id="list4" class="list">
-    <option value="-" selected disabled>Choose an option</option>
-  </select>
-  <br>
-  <br>
+    when following a specified cell type, across subtypes.
+    </p>
+    <select id="list4" class="list">
+      <option value="-" selected disabled>Choose an option</option>
+    </select>
+    <br>
+    <br>
+    <br>
 
-  <label>
-    Recommendation
-  </label><br>
-  <ul id="list5" class="list">
-  </ul>
-  
+    <label id="last">
+      Recommendation
+    </label><br>
+    <ul id="list5" class="list">
+    </ul>
 
-  <button id="clear">clear</button>
+    <button id="clear">Clear</button>
 
-</body>
+  </body>
 </html>
