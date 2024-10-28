@@ -64,3 +64,13 @@ p {
 #last {
     color: white;
 }
+
+#clover-link {
+    text-decoration: none;
+    padding-top: 20px;
+    font-size: xx-large;
+}
+
+#clover-link:hover {
+    text-decoration: underline;
+}
