@@ -12,6 +12,10 @@
     transition: 800ms ease;
 } */
 
+body {
+    font-family: Helvetica;
+}
+
 .list {
     margin: 5px;
     list-style-type: none;
@@ -42,14 +46,12 @@ span {
 }
 
 label {
-    font-weight: 400;
+    font-weight: bolder;
     font-size: 22px;
-    font-family: 'Calistoga';
 }
 
 p {
     font-size: 14px;
-    font-family: Roboto, "Helvetica Neue", HelveticaNeue, "Liberation Sans", Arimo, Helvetica, Arial, sans-serif, dejavu_sans, Symbola;
 }
 
 #aav-repo-link {
