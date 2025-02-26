@@ -1,0 +1,40 @@
+name: Sync Kibol
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the github.io repository
+      uses: actions/checkout@v3
+      with:
+        repository: ANewProfile/anewprofile.github.io
+        path: gh-pages
+        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Checkout the kibol repository
+      uses: actions/checkout@v3
+      with:
+        repository: ANewProfile/kibol
+        path: kibol
+        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Sync Kibol to github.io
+      run: |
+        rsync -av --delete kibol/ gh-pages/kibol-latest/
+
+    - name: Commit and push changes
+      run: |
+        cd gh-pages
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m "Update kibol-latest to the latest version"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
