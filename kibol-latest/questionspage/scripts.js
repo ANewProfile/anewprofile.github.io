@@ -1,57 +1,14 @@
-function getTossup(cb) {
-    $.ajax({
-        url: 'http://127.0.0.1:5000/tossup',
-        type: 'GET',
-        dataType: 'json',
-        success: function (data) {
-            console.log("success!")
-            cb(data);
-        },
-        error: function (error) {
-            // console.error('Error:', error);
-            console.log("unsuccessful")
-        }
-    });
+async function getTossup(cb) {
+    const response = await fetch('http://localhost:3000/tossup');
+    const fullData = await response.json();
+    const readableData = fullData["tossups"][0];
+    cb(readableData);
 }
 
-var getBonus = () => {
-    $.ajax({
-        url: 'http://127.0.0.1:5000/bonus',
-        type: 'GET',
-        dataType: 'json',
-        success: function (data) {
-            return {
-                "leadin": data[0],
-                "q1": data[1],
-                "q2": data[2],
-                "q3": data[3],
-                "a1": data[4],
-                "a2": data[5],
-                "a3": data[6],
-            };
-        },
-        error: function (error) {
-            console.error('Error:', error);
-        }
-    });
-}
-
-var checkAnswer = (questionId, guess, cb) => {
-    $.ajax({
-        url: `http://127.0.0.1:5000/checkanswer`,
-        type: 'GET',
-        dataType: 'json',
-        data: {
-            "questionid": questionId,
-            "guess": guess,
-        },
-        success: function (data) {
-            cb(data);
-        },
-        error: function (error) {
-            console.error('Error:', error);
-        }
-    });
+async function checkAnswer(questionId, guess, cb) {
+    const response = await fetch(`http://localhost:3000/checkanswer?questionid=${questionId}&guess=${guess}`);
+    const data = await response.json();
+    cb(data);
 }
 
 $(document).ready(() => {
@@ -75,12 +32,13 @@ $(document).ready(() => {
         $('#answer-container').show();
 
         document.addEventListener('keydown', (event) => {
+            if (!buzzing) { return; }
+
             if (event.key === 'Enter') {
                 checkAnswer(questionId, $('#answer-input').val(), function (data) {
                     var directive = data["directive"];
                     var directedPrompt = data["directedPrompt"];
-                    console.log(directive, directedPrompt);
-                    console.log(data["answer"]);
+                    // console.log(directive, directedPrompt);
                     
                     if (directive === "accept") {
                         // Hide answer container
@@ -99,7 +57,6 @@ $(document).ready(() => {
                         reading = false;
                         startedReading = false;
                         $('#question').html(question);
-                        console.log("added " + question + " to page");
 
                         buzzing = false;
                     } else if (directive === "prompt") {
@@ -124,7 +81,6 @@ $(document).ready(() => {
                         reading = false;
                         startedReading = false;
                         $('#question').html(question);
-                        console.log("added " + question + " to page");
 
                         buzzing = false;
                     }
@@ -179,8 +135,8 @@ $(document).ready(() => {
             }
         } else if (event.key === ' ') {
             if (!buzzing) { if(reading) { userBuzz() } }
-            else if (buzzing) { console.log('already buzzing') }
-            else if (!reading) { console.log('not reading question') }
         }
     })
+
+    // test();
 });
